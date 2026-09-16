@@ -1,0 +1,5 @@
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: "))
+sexo = input("Digite seu sexo: ")
+endereco = input("Digite seu endereço: ")
+telefone = input("Digite seu telefone: ")
